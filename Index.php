@@ -1,3 +1,13 @@
+<?php
+session_start();
+
+// Check if the user is logged in
+if (!isset($_SESSION['user_email'])) {
+    header("Location: form_submition/login.php"); // change path if needed
+    exit();
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
