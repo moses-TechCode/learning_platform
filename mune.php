@@ -23,7 +23,7 @@
           <span class="material-symbols-rounded">outdoor_garden</span>
           <span>mideopener pro</span>
         </a>
-        <a href="#" class="flex items-center p-3 m-2 rounded hover:bg-gray-200 transition justify-around">
+        <a href="leaderboarde/leaderboarde.php" class="flex items-center p-3 m-2 rounded hover:bg-gray-200 transition justify-around">
          <span class="material-symbols-rounded">leaderboard</span>
           <span>learderboard</span>
         </a>

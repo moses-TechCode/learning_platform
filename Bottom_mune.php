@@ -15,7 +15,8 @@
   <title>bottom mune</title>
 </head>
 <body class="m-0 p-0 bg-gray-50">
-    <!-- Main Content -->  <nav class="fixed bottom-0 left-0 w-full bg-gray-900 text-white shadow-md z-30 h-[65px]">
+    <!-- Main Content -->  
+    <nav class="fixed bottom-0 left-0 w-full bg-gray-900 text-white shadow-md z-30 h-[65px]">
 
 <div class="flex justify-around">
   
@@ -44,7 +45,7 @@ school
       <div class="flex flex-col items-center"><span class="material-symbols-rounded">person</span> <span class="text-[12px]">profile</span></span>
 </div>
 </a>
+</div>
 </nav>
-
 </body>
 </html>
